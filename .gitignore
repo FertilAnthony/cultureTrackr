@@ -38,3 +38,10 @@
 
 # Composer PHAR
 /composer.phar
+
+.DS_STORE
+.vagrant
+
+#PHP Storm
+.idea/
+
