@@ -1,7 +1,10 @@
+<<<<<<< 54b546d3782fc0ff7cad8eb027b33e9e61c902b1
 # cultureTrackr
 Website to manage movies, TV shows, books ... with a REST API (API Platform) and Angular.js
 
 =======
+=======
+>>>>>>> Added Ruby and Laravel Installer
 Scotch Box
 ==========
 
@@ -35,7 +38,11 @@ So that's why I decided to build a Vagrant LAMP Box. The box is prepackaged and 
 ![Scotch Box SSH](http://scotch.io/wp-content/uploads/2014/10/scotch-box-ssh.jpg)
 
 
+<<<<<<< 54b546d3782fc0ff7cad8eb027b33e9e61c902b1
 ## Features 
+=======
+## Features
+>>>>>>> Added Ruby and Laravel Installer
 
 ### Useful Stuff
 - PHP 5.5
@@ -173,6 +180,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
  [9]: https://github.com/smdahlen/vagrant-hostmanager
  [10]: http://scotch.io/tutorials/sharing-your-virtual-machine-on-the-web-with-vagrant-share
  [11]: http://scotch.io/tutorials/php/getting-started-with-laravel-homestead 
+ [11]: http://scotch.io/tutorials/php/getting-started-with-laravel-homestead
  [12]: https://www.vagrantup.com/downloads.html
  [13]: https://www.virtualbox.org/wiki/Downloads
  [14]: http://192.168.33.10/
